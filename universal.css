@@ -1,8 +1,8 @@
-*{
-    margin: 0;
-    padding: 0;
+* {
+  margin: 0;
+  padding: 0;
 }
 @font-face {
-    font-family: Mon;
-    src: url('./fonts/Montserrat-Regular.ttf');
+  font-family: Mon;
+  src: url("./fonts/Montserrat-Regular.ttf");
 }
